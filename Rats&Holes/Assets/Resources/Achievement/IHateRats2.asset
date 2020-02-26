@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce112e126f20a924db1f1f6de5171eb3, type: 3}
+  m_Name: IHateRats2
+  m_EditorClassIdentifier: 
+  achievementName: I HATE RATS
+  achievementDescription: 'Kill 10000 rats in total. Reward: Cool hat'
+  rewardHat: {fileID: 11400000, guid: 3a2558f80b956354ca7d191f31ea87dc, type: 2}
+  image: {fileID: 21300000, guid: 200f432fe7c51f944b276cc030834cc6, type: 3}
+  ratskills: 0
+  ratskillstotal: 10000
+  score: 0
